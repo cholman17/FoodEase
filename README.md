@@ -19,8 +19,9 @@ Website: https://foodeaseco.wixsite.com/relief <br> Contact: foodeasestorage@gma
 
 
 
-
+Layering Predictions over Actual Crisis Mentions
 ![Demo — Layering Predictions over Actual Crisis Mentions](demo/InteractiveMap1_ZoomClick.gif)
 
-
+<br>
+Clustering Crisis Mentions by Regional Zone
 ![Demo — Clustering Crisis Mentions by Regional Zone](demo/InteractiveMap2_ZoomClick.gif)
