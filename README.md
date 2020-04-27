@@ -13,8 +13,10 @@ The resulting visualizations led to three insights. First, additional conditions
 
 In conclusion, the project allowed us to confirm that we can validate or disprove news of a crisis through social media — and, with refinement, can use it as a proxy for impact estimates.
 
+
 ••• Special thanks to our advisor Kyle Monahan, Senior Data Science Specialist at Tufts University.
 
+[Project Presentation](https://tufts.box.com/s/snpwbzm4khselq0ow4xfujif7sdogwtu "FoodEase Presentation") <br>
 Website: https://foodeaseco.wixsite.com/relief <br> Contact: foodeasestorage@gmail.com
 
 
